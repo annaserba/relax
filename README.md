@@ -1,4 +1,4 @@
-# relax - relax, Meditate and Sleep
+# Relax Meditate and Sleep
 **Screenshots:**
 <p float="center">
   <img src="art/screen01.png" width="250" />
